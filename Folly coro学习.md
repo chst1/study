@@ -1,4 +1,4 @@
-```
+---
 title: folly协程Task学习
 date: 2023-09-24 17:59:18
 tags:
@@ -8,7 +8,7 @@ categories:
 mathjax:
     true
 description: 听说Facebook目前已经将内部的future替换成协程coro了，恰巧工作中有相关协程使用的讨论，于是看一下folly中基于C++20协程封装的框架。
-```
+---
 
 <center/><font size = 8>C++协程之folly coro</font></center>
 
